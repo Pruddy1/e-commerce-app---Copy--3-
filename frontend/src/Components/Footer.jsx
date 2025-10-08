@@ -8,7 +8,9 @@ const Footer = () => {
     <div>
         <img src={assets.logo} className='mb-5 w-32' alt="" />
         <p className='w-full md:w-2/3 text-gray-600'>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled it to make a type specimen book.
+        we believe in timeless elegance and exceptional craftsmanship. 
+            Our mission is to provide refined fashion that empowers you to express your unique 
+            style with confidence.
         </p>
     </div>
     <div>
@@ -23,7 +25,7 @@ const Footer = () => {
     <div>
         <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
         <ul className='flex flex-col gap-1 text-gray-600'>
-            <li>+1-213-456-7890</li>
+            <li>+1-245-656-1820</li>
             <li>contact@foreveryou.com</li>
         </ul>
     </div>
